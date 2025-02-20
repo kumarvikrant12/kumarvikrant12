@@ -1,4 +1,4 @@
--👋 Hi, I’m @kumarvikrant12
+-👋 Hlo, I’m @kumarvikrant12
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning Btech CSE📫 How to reach me kumarvikrant@gmail.com
 - 😄 Pronouns: he/him
