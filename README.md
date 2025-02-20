@@ -1,7 +1,7 @@
 -👋 Hi, I’m @kumarvikrant12
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning Btech CSE📫 How to reach me kumarvikrant@gmail.com
-. 😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 .⚡ Fun fact: I am manipulative 
 
 <!---
